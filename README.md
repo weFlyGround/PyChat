@@ -9,6 +9,7 @@ Just unpack 7Zip, then start program in the unpacked folder;
 
 For PY(source code):
 PyInstaller: 4.8; Python: 3.10.1; Libraries: os, pyrebase(or your server library), re, time, datetime, colorama;
+
 To install, open CMD(Command Prompt), then input this: pip install (name of library);
 
 Notice:
