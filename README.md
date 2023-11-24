@@ -12,4 +12,4 @@ PyInstaller: 4.8; Python: 3.10.1; Libraries: os, pyrebase(or your server library
 To install, open CMD(Command Prompt), then input this: pip install (name of library);
 
 Notice:
-(Author and team is not responsible for your actions with that repository);
+Author and team is not responsible for your actions with that repository;
