@@ -5,4 +5,4 @@ Operation System: Windows 10; PyInstaller: 4.8; Python: 3.10.1; Libraries: os, p
 
 To install, open CMD(Command Prompt), then input this: pip install (name of library);
 
-There we have an archieve, you should unpacked is with 7Zip or .exe file within
+There we have an archieve, you should unpacked is with 7Zip.
