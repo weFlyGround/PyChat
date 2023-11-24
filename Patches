@@ -1,2 +1,2 @@
-First patch was upload: 1.7 (date: 24.11.23):
+First patch was uploaded, version: 1.7 (date: 24.11.23):
 Just nothing special. We are include "clear" command to "cls"(Mac&Linux: clear) the console. And yeah, the PyChat in now public :)
