@@ -126,7 +126,7 @@ def main():
             clearchoose = input("Proceed? (Y or N): ")
             if clearchoose.lower() == "y":
                 password = input("Password: ")
-                if password == "romaposholnahui!228":
+                if password == "password":
                     try:
                         clear_messages()
                         time.sleep(1)
