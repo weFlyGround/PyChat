@@ -1,7 +1,7 @@
 #stable 1.5
 from colorama import Fore, Style
 
-version = "1.7"
+version = "1.5"
 print(f"{Fore.GREEN}Version:{Style.RESET_ALL}", version)
 
 import os
