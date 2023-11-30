@@ -1,3 +1,4 @@
+#stable 1.5
 from colorama import Fore, Style
 
 version = "1.7"
