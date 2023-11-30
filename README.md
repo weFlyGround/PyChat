@@ -1,7 +1,7 @@
 # PyChat
 Is the simple chat, that made on Python. Working with database of Google(or other).
 
-There we have an archive, you should unpacked is with 7Zip.
+There we have an archive, you should unpacked it with 7Zip.
 
 For EXE(final aplication):
 Operation System: Windows 10, 11 (MacOS and Linux is will be later); 
