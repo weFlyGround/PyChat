@@ -1,2 +1,7 @@
+There is the second GLOBAL patch, version: 2.1 (date: 1.12.23):
+2.0 - Message encryption has been added, and their processing on the server.
+2.1 - Now, when deleting messages, a key will be created that will be passed to the admins for further use.
+Addition: When we receive a sufficient number of requests for disclosure encryption method, we will give you our code "CRYPTen" (data encryption and decryption).
+
 First patch was uploaded, version: 1.7 (date: 24.11.23):
-Just nothing special. We are include "clear" command to "cls"(Mac&Linux: clear) the console. And yeah, the PyChat in now public :)
+1.7 - Just nothing special. We are include "clear" command to "cls"(Mac&Linux: clear) the console. And yeah, the PyChat in now public :)
