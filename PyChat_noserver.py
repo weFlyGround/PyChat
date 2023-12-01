@@ -1,7 +1,7 @@
-#stable 1.5
+#stable 1.7
 from colorama import Fore, Style
 
-version = "1.5"
+version = "1.7"
 print(f"{Fore.GREEN}Version:{Style.RESET_ALL}", version)
 
 import os
@@ -11,10 +11,10 @@ import time
 from datetime import datetime
 
 config = {
-  #"apiKey": "apikey",
-  #"authDomain": "domain",
-  #"databaseURL": "https://forexample_yourchatserver.com",
-  #"storageBucket": "storageBucket"
+  #"apiKey": 
+  #"authDomain": 
+  #"databaseURL": 
+  #"storageBucket": 
 }
 
 firebase = pyrebase.initialize_app(config)
