@@ -141,7 +141,7 @@ def main():
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"\n{Fore.CYAN}Developer:{Style.RESET_ALL} PlazmaRoma, FlyGround team\nOur GitHub: https://github.com/weFlyGround\nYoutube(Gaming): https://www.youtube.com/channel/UCnE9fW8qdkyAtbThMvm4m3A [KZ]\n{Fore.MAGENTA}Special Thanks:{Style.RESET_ALL} Ilya Nurullaev (tester) [KZ], Standalone Coder (the mastermind) [RU], And thank YOU too! (user) [?]\n{Fore.GREEN}Version:{Style.RESET_ALL} {version}")
             with open("credits.txt", "w") as file:
-                file.write("Developer: PlazmaRoma, FlyGround team\nOur GitHub: https://github.com/weFlyGround\nYoutube(Gaming): https://www.youtube.com/channel/UCnE9fW8qdkyAtbThMvm4m3A [KZ]\nSpecial Thanks: Ilya Nurullaev (tester) [KZ], Standalone Coder (the mastermind) [RU], And thank YOU too! (user) [?]\nVersion: 1.5")
+                file.write("Developer: PlazmaRoma, FlyGround team\nOur GitHub: https://github.com/weFlyGround\nYoutube(Gaming): https://www.youtube.com/channel/UCnE9fW8qdkyAtbThMvm4m3A [KZ]\nSpecial Thanks: Ilya Nurullaev (tester) [KZ], Standalone Coder (the mastermind) [RU], And thank YOU too! (user) [?]\nVersion: 1.7")
             print("\nCredits have been added to credit.txt in the 'dist' folder")
         elif choice == "clear" or "Clear" or "CLEAR":
             os.system('cls' if os.name == 'nt' else 'clear')
