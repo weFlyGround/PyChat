@@ -1,5 +1,5 @@
 # PyChat
-Is the simple chat, that made on Python. Working with database of Google(or other).
+Is the simple chat, that maded on Python. Working with database of Google(or other).
 
 There we have an archive, you should unpacked it with 7Zip.
 
